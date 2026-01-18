@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Editor / IDE
+.vscode/
+.idea/
+.history/
+.cursor/
+
+# AI Agent Artifacts
+.omc/

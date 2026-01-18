@@ -1,0 +1,17 @@
+{
+  "_comment": "This file is no longer used. Diff viewer now loads files directly from ../system-prompt/ folder.",
+  "_file_pairs": {
+    "diff-sonnet-public": {
+      "left": "sonnet-nov-19-2025.md (Public Sonnet claude_behavior)",
+      "right": "sonnet-claude-behavior.md (Extracted Sonnet claude_behavior)"
+    },
+    "diff-opus-public": {
+      "left": "opus-nov-24-2025.md (Public Opus claude_behavior)",
+      "right": "opus-claude-behavior.md (Extracted Opus claude_behavior)"
+    },
+    "diff-sonnet-opus": {
+      "left": "sonnet-claude-behavior.md (Extracted Sonnet)",
+      "right": "opus-claude-behavior.md (Extracted Opus)"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "_comment": "Code content for code-viewer.js. Key is slide number. Use 'filePath' to dynamically load files from repository.",
+  "7": {
+    "filename": "chat/file-system/sonnet-4.5.md",
+    "filePath": "../chat/file-system/sonnet-4.5.md"
+  },
+  "8": {
+    "filename": "chat/file-system/opus-4.5.md",
+    "filePath": "../chat/file-system/opus-4.5.md"
+  },
+  "9": {
+    "filename": "chat/file-system/opus-4.6.md",
+    "filePath": "../chat/file-system/opus-4.6.md"
+  },
+  "12": {
+    "filename": "system-prompt/@claude-desktop/sonnet-4.5.md",
+    "filePath": "../system-prompt/@claude-desktop/sonnet-4.5.md"
+  },
+  "13": {
+    "filename": "system-prompt/@claude-desktop/opus-4.5.md",
+    "filePath": "../system-prompt/@claude-desktop/opus-4.5.md"
+  },
+  "14": {
+    "filename": "system-prompt/@claude-desktop/opus-4.6.md",
+    "filePath": "../system-prompt/@claude-desktop/opus-4.6.md"
+  }
+}
